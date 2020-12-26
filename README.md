@@ -11,6 +11,6 @@ https://assetstore.unity.com/packages/vfx/shaders/nvjob-simple-water-shaders-149
 
 The F18 was just taken from sketchup 3d warehouse, probably not scaled correctly but it doesn't matter, you don't see it in the scene anyway.
 
-In the game, if you press '1', the scene will reload, and '2' will remove the lock - this is only useful in the first few seconds of the scene and it allows you to see how fast the UFO would move across the screen without lock on.
+Game build also in root folder here. in the game, if you press '1', the scene will reload, and '2' will remove the lock - this is only useful in the first few seconds of the scene and it allows you to see how fast the UFO would move across the screen without lock on.
 
 The project could be tidied up, there's extra GameObjects for no reason and other random shit I left in from puting it together but it works.

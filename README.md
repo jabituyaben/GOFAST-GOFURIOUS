@@ -1,7 +1,7 @@
 # GOFAST-GOFURIOUS
 Reconstructing a Pentago UFO video in Unity
 
-See blog post and Youtube video for more informtion first:
+See blog post and Youtube video for more information first:
 https://jabituyaben.wixsite.com/majorinput/post/gofast-gofurious-recreating-a-pentagon-ufo-video-in-unity
 
 The GOFAST folder has the Unity Assets you can just paste in, it was made in version 2019.4.16f1.
